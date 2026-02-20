@@ -1,7 +1,5 @@
-**clear, real-world focused roadmap**.
 
-
-**job-ready Backend Developer** using:
+## job-ready Backend Developer** using:
 
 * Node.js
 * Express.js
@@ -13,7 +11,7 @@
 
 ---
 
-# 🟢 PHASE 1 — Strong Foundation (2–4 Weeks)
+#  PHASE 1 — Strong Foundation (2–4 Weeks)
 
 ## 1️⃣ JavaScript (Deep Understanding)
 
@@ -63,7 +61,7 @@ Without TypeScript, modern companies rarely hire.
 
 ---
 
-# 🟢 PHASE 2 — Node.js Core (1–2 Weeks)
+#  PHASE 2 — Node.js Core (1–2 Weeks)
 
 Understand backend environment.
 
@@ -85,7 +83,7 @@ Understand how server works before using framework.
 
 ---
 
-# 🟢 PHASE 3 — Express.js Core (2–3 Weeks)
+#  PHASE 3 — Express.js Core (2–3 Weeks)
 
 This is where backend truly begins.
 
@@ -126,7 +124,7 @@ Build clean APIs, not messy routes.
 
 ---
 
-# 🟢 PHASE 4 — Database Mastery (2–4 Weeks)
+#  PHASE 4 — Database Mastery (2–4 Weeks)
 
 Choose ONE:
 
@@ -152,7 +150,7 @@ Efficient queries = scalable backend.
 
 ---
 
-# 🟢 PHASE 5 — Architecture & Clean Code (2 Weeks)
+#  PHASE 5 — Architecture & Clean Code (2 Weeks)
 
 Now I move from beginner → intermediate.
 
@@ -182,7 +180,7 @@ Companies check structure, not just functionality.
 
 ---
 
-# 🟢 PHASE 6 — Authentication & Authorization (Critical)
+#  PHASE 6 — Authentication & Authorization (Critical)
 
 I am not backend developer without this.
 Learn:
@@ -208,7 +206,7 @@ Security is mandatory.
 
 ---
 
-# 🟢 PHASE 7 — Validation & Data Integrity
+#  PHASE 7 — Validation & Data Integrity
 
 * Request validation
 * Schema validation (Zod/Joi)
@@ -216,7 +214,7 @@ Security is mandatory.
 * Proper error messages
 
 
-# 🟢 PHASE 8 — Advanced Backend Skills
+#  PHASE 8 — Advanced Backend Skills
 
 Move to professional level.
 
@@ -237,7 +235,7 @@ These are asked in interviews.
 
 ---
 
-# 🟢 PHASE 9 — Testing
+#  PHASE 9 — Testing
 
 Learn:
 
@@ -251,7 +249,7 @@ Professional teams write tests.
 
 ---
 
-# 🟢 PHASE 10 — DevOps & Deployment
+#  PHASE 10 — DevOps & Deployment
 
 Learn:
 
